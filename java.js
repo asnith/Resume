@@ -1,3 +1,3 @@
 function myfunc() {
-         document.getElementById("virat").src="akash.JPG";
+         document.getElementById("virat").src="image.JPG";
     	}
